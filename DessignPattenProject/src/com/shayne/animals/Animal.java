@@ -1,4 +1,4 @@
-package com.shayne.itface;
+package com.shayne.animals;
 
 public interface Animal {
 
