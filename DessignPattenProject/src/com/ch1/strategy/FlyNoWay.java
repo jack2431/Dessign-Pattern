@@ -1,4 +1,4 @@
-package com.shayne.behavior;
+package com.ch1.strategy;
 
 public class FlyNoWay implements FlyBehavior {
 
